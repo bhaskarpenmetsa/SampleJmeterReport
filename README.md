@@ -1,1 +1,2 @@
 # SampleJmeterReport yes
+run
